@@ -28,70 +28,69 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
 - Backend services & system integration  
 
 ---
-
 ## 🛠 Tools I Use
 
 ### 💻 Programming & Development
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
-![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Dart-333333?style=flat&logo=dart"/>
+  <img src="https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter"/>
+  <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js"/>
+</p>
 
 ---
 
 ### 📊 Data Science & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333333?style=flat&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-333333?style=flat&logo=keras)
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-333333?style=flat&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-333333?style=flat&logo=keras"/>
+</p>
 
 ---
 
 ### 🗄 Databases & Backend
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb"/>
+</p>
 
 ---
 
 ### 📈 Analytics & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=tableau)
-![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-333333?style=flat&logo=apache)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-333333?style=flat&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Apache%20Superset-333333?style=flat&logo=apache"/>
+</p>
 
 ---
 
 ### ⚙️ Data Engineering & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-333333?style=flat&logo=apachekafka)
-![Hadoop](https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop)
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-333333?style=flat&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop"/>
+</p>
 
 ---
 
 ### 🔧 Version Control
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github"/>
+</p>
 ---
-
-## 📌 Selected Work
-
-- **MyKneeCare** — AI-powered rehabilitation monitoring system  
-- **Liver Disease Prediction** — ML research (WJPR publication)  
-- **EduBloom** — learning analytics & tracking platform  
-- **Flutter Apps** — cross-platform mobile applications  
-
----
-
-## 🏏 Beyond Code
-
-Outside technology, I’m deeply interested in sports — especially cricket.  
-The discipline, strategy, and analytical thinking involved in the game strongly influence how I approach **problem-solving, teamwork, and continuous improvement** in software projects.
-
----
+## 🏏 Beyond Technical Life
 
 <p align="center">
-  <i>Always learning. Always building. Always exploring.</i>
+  <i>
+    Cricket is where I slow down, observe, and learn.  
+    It reminds me that growth isn’t rushed —  
+    it’s earned through focus, patience, and persistence.
+  </i>
 </p>
