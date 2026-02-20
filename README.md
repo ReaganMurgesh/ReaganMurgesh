@@ -16,10 +16,10 @@
 
 ## 👋 About Me
 
-I love building software that goes beyond experiments and demos — **real systems that people actually use**, that scale smoothly, and keep running reliably in the real world 🚀
+I love building software that goes beyond experiments and demos  **real systems that people actually use**, that scale smoothly, and keep running reliably in the real world 🚀
 
 My projects sit at the intersection of **data science, machine learning, and application development** 🤖📊  
-I enjoy taking ideas from start to finish — from data and models to **mobile apps, web platforms, and backend services** 📱🌐 — with a strong focus on **clean architecture, scalability, and real-world impact** 🛠️
+I enjoy taking ideas from start to finish — from data and models to **mobile apps, web platforms, and backend services** 📱🌐  with a strong focus on **clean architecture, scalability, and real-world impact** 🛠️
 
 <hr/>
 
