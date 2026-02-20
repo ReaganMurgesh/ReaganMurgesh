@@ -14,11 +14,10 @@
 ---
 
 ## 👋 About Me
+I love building software that goes beyond experiments and demos — real systems that people actually use, that can scale, and that keep running reliably in the real world 🚀
 
-I’m an MCA student at Chanakya University with a strong interest in building software that works **beyond notebooks and demos**.
-
-My work sits at the intersection of **data science, machine learning, and application development**. I enjoy working end-to-end — from data and models to mobile apps, web platforms, and backend services — with a focus on **clarity, scalability, and real-world usability**.
-
+My projects sit at the intersection of data science, machine learning, and application development 🤖📊
+I enjoy taking ideas from start to finish — from data and models to mobile apps, web platforms, and backend services 📱🌐 — with a strong focus on clean architecture, scalability, and real-world impact 🛠️
 ---
 
 ## 🛠 What I Work On
