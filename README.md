@@ -23,14 +23,7 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
 
 <hr/>
 
-## 🛠 What I Work On
 
-- Data science & applied machine learning  
-- Mobile application development (Flutter)  
-- Web application development  
-- Backend services & system integration  
-
-<hr/>
 ## 🛠 Technology Used
 
 ### 💻 Programming & Development
@@ -100,8 +93,6 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
 
 <p align="center">
   <i>
-    “Cricket reminds me that growth is never rushed.<br/>
-    It is built through patience, consistency,<br/>
-    and trust in the process — on and off the field.”
+    “Cricket reminds me that growth is never rushed.It is built through patience, consistency, and trust in the process — on and off the field.”
   </i>
 </p>
