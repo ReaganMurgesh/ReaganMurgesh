@@ -1,9 +1,11 @@
-<!-- Centered Developer Banner GIF -->
+<!-- ===================== -->
+<!-- Developer Banner -->
+<!-- ===================== -->
 <p align="center">
-  <img src="./developer-banner.gif" alt="Developer Animation" width="85%" />
+  <img src="./developer-banner.gif" alt="Developer Animation" width="90%" />
 </p>
 
----
+<br/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,14 +13,17 @@
   </a>
 </p>
 
----
+<br/>
+<hr/>
 
 ## 👋 About Me
-I love building software that goes beyond experiments and demos — real systems that people actually use, that can scale, and that keep running reliably in the real world 🚀
 
-My projects sit at the intersection of data science, machine learning, and application development 🤖📊
-I enjoy taking ideas from start to finish — from data and models to mobile apps, web platforms, and backend services 📱🌐 — with a strong focus on clean architecture, scalability, and real-world impact 🛠️
----
+I love building software that goes beyond experiments and demos — **real systems that people actually use**, that scale smoothly, and keep running reliably in the real world 🚀
+
+My projects sit at the intersection of **data science, machine learning, and application development** 🤖📊  
+I enjoy taking ideas from start to finish — from data and models to **mobile apps, web platforms, and backend services** 📱🌐 — with a strong focus on **clean architecture, scalability, and real-world impact** 🛠️
+
+<hr/>
 
 ## 🛠 What I Work On
 
@@ -27,7 +32,8 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
 - Web application development  
 - Backend services & system integration  
 
----
+<hr/>
+
 ## 🛠 Tools I Use
 
 ### 💻 Programming & Development
@@ -40,7 +46,7 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
   <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js"/>
 </p>
 
----
+<br/>
 
 ### 📊 Data Science & Machine Learning
 <p align="center">
@@ -51,7 +57,7 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
   <img src="https://img.shields.io/badge/Keras-333333?style=flat&logo=keras"/>
 </p>
 
----
+<br/>
 
 ### 🗄 Databases & Backend
 <p align="center">
@@ -60,7 +66,7 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
   <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb"/>
 </p>
 
----
+<br/>
 
 ### 📈 Analytics & Visualization
 <p align="center">
@@ -69,7 +75,7 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
   <img src="https://img.shields.io/badge/Apache%20Superset-333333?style=flat&logo=apache"/>
 </p>
 
----
+<br/>
 
 ### ⚙️ Data Engineering & Streaming
 <p align="center">
@@ -77,20 +83,22 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
   <img src="https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop"/>
 </p>
 
----
+<br/>
 
 ### 🔧 Version Control
 <p align="center">
   <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github"/>
 </p>
----
+
+<hr/>
+
 ## 🏏 Beyond Technical Life
 
 <p align="center">
   <i>
-    Cricket is where I slow down, observe, and learn.  
-    It reminds me that growth isn’t rushed —  
-    it’s earned through focus, patience, and persistence.
+    Cricket is where I slow down, observe, and reflect.  
+    It reinforces the value of patience, consistency,  
+    and trusting the process — lessons I carry into everything I build.
   </i>
 </p>
