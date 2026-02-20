@@ -1,6 +1,6 @@
 <!-- Developer Animation -->
 <p align="center">
-  <img src="./assets/developer.gif" width="360" alt="Developer at work" />
+  <img src="![developer animation](./developer-banner.gif)" width="360" alt="Developer at work" />
 </p>
 
 <!-- Typing Effect -->
