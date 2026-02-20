@@ -34,7 +34,7 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
 
 <hr/>
 
-## 🛠 Tools I Use
+## 🛠 Technology Used
 
 ### 💻 Programming & Development
 <p align="center">
