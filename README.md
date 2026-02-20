@@ -89,13 +89,19 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
 </p>
 
 <hr/>
+### 🌱 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20ML-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-2F4F4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/App%20Scalability-008080?style=for-the-badge"/>
+</p>
 
 ## 🏏 Beyond Technical Life
 
 <p align="center">
   <i>
-    Cricket is where I slow down, observe, and reflect.  
-    It reinforces the value of patience, consistency,  
-    and trusting the process — lessons I carry into everything I build.
+    “Cricket reminds me that growth is never rushed.<br/>
+    It is built through patience, consistency,<br/>
+    and trust in the process — on and off the field.”
   </i>
 </p>
