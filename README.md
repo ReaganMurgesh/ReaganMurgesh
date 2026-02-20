@@ -29,9 +29,50 @@ I enjoy taking ideas from start to finish — from data and models to mobile app
 
 ---
 
-## 🔧 Tools I Use Often
+## 🛠 Tools I Use
 
-`Python` · `Machine Learning` · `Flutter` · `React` · `PostgreSQL` · `Git`  
+### 💻 Programming & Development
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+
+---
+
+### 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333333?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-333333?style=flat&logo=keras)
+
+---
+
+### 🗄 Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+
+---
+
+### 📈 Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-333333?style=flat&logo=apache)
+
+---
+
+### ⚙️ Data Engineering & Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-333333?style=flat&logo=apachekafka)
+![Hadoop](https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop)
+
+---
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 
 ---
 
