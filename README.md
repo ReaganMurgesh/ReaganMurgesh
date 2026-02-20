@@ -1,6 +1,7 @@
 ![developer animation](./developer-banner.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F0F717&background=FF3A1D00&vCenter=true&width=437&lines=Data+Science+%26+Applied+Machine+Learning;Mobile+%26+Web+Application+Development;Data-Driven+System+Design;End-To-End+Solution+Implementation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=331EF7&background=FF3A1D00&width=437&lines=Data+Science+%26+Applied+ML;Mobile+%26+Web+Application+Developor;Data-Driven+System+Design;End-To-End+Solution+Implementation)](https://git.io/typing-svg)
+
 ## 👨‍💻 About Me
 
 I'm a **software oriented student** who loves to mix up theory and real world in case of **Data Sciences, Machine Learning and full stack dev**.  
