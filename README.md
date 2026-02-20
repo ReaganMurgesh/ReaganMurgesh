@@ -1,64 +1,39 @@
 <!-- Developer Animation -->
 <p align="center">
-  <img src="./assets/developer.gif" width="360" alt="Developer animation" />
+  <img src="./assets/developer.gif" width="360" alt="Developer at work" />
 </p>
 
-<!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=M%20Reagan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=data%20science%20%7C%20machine%20learning%20%7C%20app%20%26%20web%20development&descSize=14)
-
-<!-- Social Buttons -->
+<!-- Typing Effect -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/reagan-murgesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=331EF7&background=FF3A1D00&vCenter=true&width=700&lines=Data+Science+%26+Applied+ML;Mobile+%26+Web+Application+Developer;Data-Driven+System+Design;End-To-End+Solution+Implementation" alt="Typing SVG" />
   </a>
-  <a href="mailto:reaganmurgesh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ReaganMurgesh">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Profile Card -->
-<h2 align="center">M Reagan</h2>
-<p align="center"><i>Software Engineer · Data Science & Machine Learning · App & Web Development</i></p>
-
-<p align="center">
-Building data-driven applications and end-to-end software systems using machine learning,
-mobile development, and modern web technologies.
 </p>
 
 ---
 
-<!-- About Me (Interactive) -->
-<details>
-  <summary><b>👤 About Me</b></summary>
-  <br/>
-  MCA student at Chanakya University focused on applying data science and machine learning
-  to real-world software and application development.
-  <br/><br/>
-  I work across mobile apps, web platforms, backend services, and ML-powered features
-  with emphasis on clean architecture and scalability.
-</details>
+## 👤 About Me
+
+I’m an MCA student at Chanakya University who enjoys building software that actually works outside notebooks and demos.
+
+My interests sit at the intersection of **data science, machine learning, and application development**. I like working end-to-end — from data and models to mobile apps, web platforms, and backend services — with a strong focus on clarity, scalability, and real-world usability.
+
+Most days involve turning ideas (and coffee) into clean, maintainable code.
 
 ---
 
-<!-- What I Do -->
-<details>
-  <summary><b>🛠 What I Build</b></summary>
-  <br/>
+## 🛠 What I Work On
 
-  • Data science & applied machine learning  
-  • Mobile application development (Flutter)  
-  • Web application development  
-  • Backend services & data integration  
-
-</details>
+- Data science & applied machine learning  
+- Mobile application development (Flutter)  
+- Web application development  
+- Backend services & system integration  
 
 ---
 
-<!-- Skills (Tags style) -->
-<p align="center">
+## 🧰 Tools I Use Often
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -68,20 +43,13 @@ mobile development, and modern web technologies.
 
 ---
 
-<!-- Featured Work -->
-<details>
-  <summary><b>📌 Selected Work</b></summary>
-  <br/>
+## 📌 Selected Work
 
-  • **MyKneeCare** – AI-powered rehabilitation monitoring  
-  • **Liver Disease Prediction** – ML research (WJPR)  
-  • **EduBloom** – Learning analytics platform  
-  • **Flutter Apps** – Cross-platform mobile apps  
-
-</details>
+- **MyKneeCare** – AI-powered rehabilitation monitoring system  
+- **Liver Disease Prediction** – ML research (WJPR publication)  
+- **EduBloom** – Learning analytics & tracking platform  
+- **Flutter Apps** – Cross-platform mobile applications  
 
 ---
 
-<blockquote align="center">
-Focused on building practical, scalable software by combining data, machine learning, and application development.
-</blockquote>
+> *Focused on building practical software systems using data, machine learning, and thoughtful engineering.*
