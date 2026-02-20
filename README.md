@@ -1,7 +1,4 @@
-<!-- Developer Animation -->
-<p align="center">
-  <img src="![developer animation](./developer-banner.gif)" width="360" alt="Developer at work" />
-</p>
+![developer animation](./developer-banner.gif)
 
 <!-- Typing Effect -->
 <p align="center">
