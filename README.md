@@ -12,8 +12,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=331EF7&background=FF3A1D00&center=true&vCenter=true&width=900&lines=Data+Science+%26+Applied+ML;Mobile+%26+Web+Application+Developer;Data-Driven+System+Design;End-To-End+Solution+Implementation" alt="Typing SVG" />
   </a>
 </p>
-
-<br/>
 <hr/>
 
 ## 👋 About Me
@@ -46,8 +44,6 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
   <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js"/>
 </p>
 
-<br/>
-
 ### 📊 Data Science & Machine Learning
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy"/>
@@ -57,16 +53,12 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
   <img src="https://img.shields.io/badge/Keras-333333?style=flat&logo=keras"/>
 </p>
 
-<br/>
-
 ### 🗄 Databases & Backend
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql"/>
   <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb"/>
 </p>
-
-<br/>
 
 ### 📈 Analytics & Visualization
 <p align="center">
@@ -75,15 +67,11 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
   <img src="https://img.shields.io/badge/Apache%20Superset-333333?style=flat&logo=apache"/>
 </p>
 
-<br/>
-
 ### ⚙️ Data Engineering & Streaming
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Kafka-333333?style=flat&logo=apachekafka"/>
   <img src="https://img.shields.io/badge/Hadoop-333333?style=flat&logo=apachehadoop"/>
 </p>
-
-<br/>
 
 ### 🔧 Version Control
 <p align="center">
