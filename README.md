@@ -82,7 +82,8 @@ I enjoy taking ideas from start to finish — from data and models to **mobile a
 </p>
 
 <hr/>
-### 🌱 Currently Exploring
+
+## 🌱 Currently Exploring
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced%20ML-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System%20Design-2F4F4F?style=for-the-badge"/>
