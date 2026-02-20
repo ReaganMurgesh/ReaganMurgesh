@@ -1,3 +1,5 @@
+![developer animation](./developer.gif)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F0F717&background=FF3A1D00&vCenter=true&width=437&lines=Data+Science+%26+Applied+Machine+Learning;Mobile+%26+Web+Application+Development;Data-Driven+System+Design;End-To-End+Solution+Implementation)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
