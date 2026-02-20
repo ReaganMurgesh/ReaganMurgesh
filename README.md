@@ -11,29 +11,43 @@
 </p>
 
 ---
+---
 
-## 👤 About Me
+<h2 align="center">👤 About Me</h2>
 
-I’m an MCA student at Chanakya University who enjoys building software that actually works outside notebooks and demos.
+<p align="center">
+I’m an MCA student at Chanakya University who enjoys building software that actually works
+outside notebooks and demos.
+</p>
 
-My interests sit at the intersection of **data science, machine learning, and application development**. I like working end-to-end — from data and models to mobile apps, web platforms, and backend services — with a strong focus on clarity, scalability, and real-world usability.
+<p align="center">
+My interests sit at the intersection of <b>data science</b>, <b>machine learning</b>, and
+<b>end-to-end application development</b>.
+I like working across the full stack — from data and models to mobile apps,
+web platforms, and backend services — with a strong focus on clarity, scalability,
+and real-world usability.
+</p>
 
+<p align="center">
 Most days involve turning ideas (and coffee) into clean, maintainable code.
+</p>
 
 ---
 
-## 🛠 What I Work On
+<h2 align="center">🛠 What I Work On</h2>
 
-- Data science & applied machine learning  
-- Mobile application development (Flutter)  
-- Web application development  
-- Backend services & system integration  
+<p align="center">
+• Data science & applied machine learning <br/>
+• Mobile application development (Flutter) <br/>
+• Web application development <br/>
+• Backend services & system integration
+</p>
 
 ---
 
-## 🧰 Tools I Use Often
+<h2 align="center">🧰 Tools I Use Often</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
@@ -43,13 +57,35 @@ Most days involve turning ideas (and coffee) into clean, maintainable code.
 
 ---
 
-## 📌 Selected Work
+<h2 align="center">📌 Selected Work</h2>
 
-- **MyKneeCare** – AI-powered rehabilitation monitoring system  
-- **Liver Disease Prediction** – ML research (WJPR publication)  
-- **EduBloom** – Learning analytics & tracking platform  
-- **Flutter Apps** – Cross-platform mobile applications  
+<p align="center">
+<b>MyKneeCare</b> – AI-powered rehabilitation monitoring system <br/>
+<b>Liver Disease Prediction</b> – ML research (WJPR publication) <br/>
+<b>EduBloom</b> – Learning analytics & tracking platform <br/>
+<b>Flutter Apps</b> – Cross-platform mobile applications
+</p>
 
 ---
 
-> *Focused on building practical software systems using data, machine learning, and thoughtful engineering.*
+<h3 align="center">🎯 Fun Fact</h3>
+
+<p align="center">
+☕ I drink more coffee than my programs consume memory.
+</p>
+
+<p align="center">
+🏏 Die-hard cricket lover — I approach problem-solving the same way I watch cricket:
+patient, analytical, and always looking for the right moment to play the shot.
+</p>
+
+<p align="center">
+🌍 Curious by nature — I enjoy exploring new technologies, new places,
+and new ideas that push me beyond my comfort zone.
+</p>
+
+---
+
+<blockquote align="center">
+<b>Trying to build software that is practical, scalable, and enjoyable to use.</b>
+</blockquote>
