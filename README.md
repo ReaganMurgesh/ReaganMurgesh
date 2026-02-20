@@ -1,3 +1,5 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=180&section=header&text=M%20Reagan&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20App%20%26%20Web%20Developer%20%7C%20Data%20Science%20%26%20ML&descSize=14)
 # Hi, I'm M Reagan 👋
 
 I am a MCA Data Science 2nd year student at Chanakya University.  
