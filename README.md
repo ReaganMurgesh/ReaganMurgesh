@@ -1,117 +1,87 @@
-![developer animation](./developer-banner.gif)
+<!-- Developer Animation -->
+<p align="center">
+  <img src="./assets/developer.gif" width="360" alt="Developer animation" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=331EF7&background=FF3A1D00&width=437&lines=Data+Science+%26+Applied+ML;Mobile+%26+Web+Application+Developor;Data-Driven+System+Design;End-To-End+Solution+Implementation)](https://git.io/typing-svg)
+<!-- Header Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=M%20Reagan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=data%20science%20%7C%20machine%20learning%20%7C%20app%20%26%20web%20development&descSize=14)
 
-## 👨‍💻 About Me
+<!-- Social Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/reagan-murgesh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:reaganmurgesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ReaganMurgesh">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-I'm a **software oriented student** who loves to mix up theory and real world in case of **Data Sciences, Machine Learning and full stack dev**.  
-My focus is on building **end-to-end systems** - mobile apps, web platforms, backend services and ml powered features.
+<!-- Profile Card -->
+<h2 align="center">M Reagan</h2>
+<p align="center"><i>Software Engineer · Data Science & Machine Learning · App & Web Development</i></p>
 
-In the various projects I've been working on, I've been working on projects in **healthcare analytics, educational tech, rehab monitoring, predictive ML models** and always strive for the clean architecture, scalability, and usability that actually matter.
-
-I've also **published research** from the healthcare ML space and am active in **hackathons, talks, and tech events**.
-
----
-
-## 🧩 What I Build (Core Focus Areas)
-
-### Mobile Application Development with the help of a below-mentioned example:
-- Cross platform apps using **Flutter & Dart**
-- Healthcare and rehab monitoring solution
-- Real‑time data‑handling APIs
-
-### 🌐 Web & Full‑Stack Development
-- Frontend with **React.js**
-- Backend service in **Node.js,PHP,Flask**
-- Secure auth, dashboards, data workflows
-
-Data Science & Machine Learning -🧠
-- Supervised & unsupervised model for Real data
-- Healthcare predictions (liver, heart, rehab)
-- Feature engineering, evaluation, explainability
-
-### 🔄 Backend, Databases & Data Engineering
-- Relational & NoSQL (PostgreSQL, MySQL, MongoDB, SQL Server)
-- Pipelines and streaming using **Apache Kafka**
-- Analytics & viz by **Power BI, Tableau, Apache Superset**
+<p align="center">
+Building data-driven applications and end-to-end software systems using machine learning,
+mobile development, and modern web technologies.
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python, C, C++, Java, R  
-- Dart (Flutter)
-
-### App & Web Development
-- Flutter, Dart  
-- React.js, Node.js, PHP  
-- HTML5, CSS, JavaScript  
-- Streamlit  
-
-### Data Science & Machine Learning
-- Pandas, NumPy, Scikit‑learn  
-- TensorFlow, Keras  
-- ML & DL basics  
-- NLP & LLM fundamentals  
-
-### Databases & Data Engineering
-- Postgre SQL, MySQL, Mongo DB, SQL Server  
-- Apache Kafka, Hadoop  
-
-### BI & Analytics
-- Power BI  
-- Tableau  
-- Apache Superset  
-- Beautiful Soup, Scrapy  
-
-### Tools & Platforms
-- Git, GitHub  
-- Firebase, Supabase  
+<!-- About Me (Interactive) -->
+<details>
+  <summary><b>👤 About Me</b></summary>
+  <br/>
+  MCA student at Chanakya University focused on applying data science and machine learning
+  to real-world software and application development.
+  <br/><br/>
+  I work across mobile apps, web platforms, backend services, and ML-powered features
+  with emphasis on clean architecture and scalability.
+</details>
 
 ---
 
-## 🚀 Featured Projects
+<!-- What I Do -->
+<details>
+  <summary><b>🛠 What I Build</b></summary>
+  <br/>
 
-EduSign - Learning Sign Language Indian Sign Language
-- Full - stack with **real - time gesture recognition**
-- MediaPipe + deep learning ISL recognition
-- Gamified learning, tracking & Scalable backend
+  • Data science & applied machine learning  
+  • Mobile application development (Flutter)  
+  • Web application development  
+  • Backend services & data integration  
 
-### 🔹 MyKneeCare - Artificial Intelligency Rehabilitative Monitoring
-- **health data, ml analytics, dashboards** software merging
-- Focus on Real-Life Rehab
-
-### Prediction of Liver Disease Published Paper
-- Developed and tested ML models for diagnosis
-- Published in the Journal of World Journal of Pharmaceutical Research (WJPR)
-- Accuracy, explainability, impact focus
-
-### 🔹 Other ML & Software Projects
-- Predicting Crop Yield (Regression)
-- Air Quality (WRI) Prediction
-- Dengue Disease Prediction
-- Classification of Heart Diseases
-- Classification Potability of Water
-- PCA + K-means Clustering (Agri Data)
-
-Projects as a repository of a specific code, documentation, results etc. - to do this, we can check repos.
+</details>
 
 ---
 
-## 🏆 Accomplishments & Experience Highlights
-- Published research Publication of healthcare ML
-Internship in **Chanakya University**
-- Real problems being solved by a hackathon participant
-- NCC 'A' Certificate - Ministry of Defence - Govt. of India
+<!-- Skills (Tags style) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact & Profiles
-- **reaganmurgesh@gmail.com** (Mentioned in class by email)
-- 🔗 LinkedIn- https://linkedin.com/in/reagan-murgesh
-- 💻 Github: https://github.com/ReaganMurgesh
+<!-- Featured Work -->
+<details>
+  <summary><b>📌 Selected Work</b></summary>
+  <br/>
+
+  • **MyKneeCare** – AI-powered rehabilitation monitoring  
+  • **Liver Disease Prediction** – ML research (WJPR)  
+  • **EduBloom** – Learning analytics platform  
+  • **Flutter Apps** – Cross-platform mobile apps  
+
+</details>
 
 ---
 
-I hope you find my work useful, please feel free to take a gander on the repos and connect.
+<blockquote align="center">
+Focused on building practical, scalable software by combining data, machine learning, and application development.
+</blockquote>
