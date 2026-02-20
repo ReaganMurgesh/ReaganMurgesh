@@ -1,6 +1,6 @@
 # Hi, I'm M Reagan 👋
 
-I am a DCS 2nd year student at Chanakya University.  
+I am a MCA Data Science 2nd year student at Chanakya University.  
 Software Engineer data science & machine learning app & web development  
 📍 Bengaluru, India  
 
